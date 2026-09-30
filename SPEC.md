@@ -1,9 +1,11 @@
 # Pixel Art APP - Google Antigravity IDE 分階段開發規格書 (SPEC.md)
 
-## 專案總覽與架構規範
+## 專案總覽與架構規範(請在Google Antigaravity IDE中開發此專案)
+## 新增第二段文字
+## 新增第三段文字
 
-* **技術棧限制**：單一 `index.html` 檔案（HTML5 Canvas + 純原生 CSS + 原生 JavaScript），零外部依賴與第三方庫 \[1]。
-* **核心架構**：固定三圖層模型（前景 Foreground、中間層 Midground、背景 Background），16 色調色盤，完全離線運行，支援 localStorage 自動存檔與 JSON/PNG 匯入匯出 \[1]。
+* **技術棧限制**：單一 `index.html` 檔案（HTML5 Canvas + 純原生 CSS + 原生 JavaScript），零外部依賴與第三方庫。
+* **核心架構**：固定三圖層模型（前景 Foreground、中間層 Midground、背景 Background），16 色調色盤，完全離線運行，支援 localStorage 自動存檔與 JSON/PNG 匯入匯出。
 
 \---
 
